@@ -1,0 +1,43 @@
+Aug 27 18:36:39.109 - [INFO] start XX-Net 2.9.2
+Aug 27 18:36:39.125 - [DEBUG] start confirm_xxnet_exit
+Aug 27 18:36:40.078 - [DEBUG] good, xxnet:8087 cleared!
+Aug 27 18:36:41.078 - [DEBUG] good, xxnet:8085 clear!
+Aug 27 18:36:41.078 - [DEBUG] finished confirm_xxnet_exit
+Aug 27 18:36:43.343 - [INFO] module gae_proxy started
+Aug 27 18:36:43.343 - [INFO] start gae_proxy time cost 2139
+Aug 27 18:36:43.343 - [INFO] begin to start web control
+Aug 27 18:36:43.359 - [INFO] launcher web control started.
+Sep 04 16:09:32.609 - [DEBUG] launcher web_control 127.0.0.1:3855 GET /css/bootstrap.css 
+Sep 04 16:09:32.609 - [DEBUG] launcher web_control 127.0.0.1:3856 GET /css/bootstrap-responsive.css 
+Sep 04 16:09:32.656 - [DEBUG] launcher web_control 127.0.0.1:3882 GET /css/flat-ui.css 
+Sep 04 16:09:32.656 - [DEBUG] launcher web_control 127.0.0.1:3883 GET /css/ladda-themeless.min.css 
+Sep 04 16:09:32.656 - [DEBUG] launcher web_control 127.0.0.1:3884 GET /css/style.css?ver=2.9.2 
+Sep 04 16:09:32.656 - [DEBUG] launcher web_control 127.0.0.1:3888 GET /js/jquery-1.11.2.min.js 
+Sep 04 16:09:32.734 - [DEBUG] launcher web_control 127.0.0.1:3884 GET /js/bootstrap.min.js 
+Sep 04 16:09:32.734 - [DEBUG] launcher web_control 127.0.0.1:3883 GET /js/flat-ui.min.js 
+Sep 04 16:09:32.812 - [DEBUG] launcher web_control 127.0.0.1:3856 GET /js/jquery.timer.js 
+Sep 04 16:09:32.812 - [DEBUG] launcher web_control 127.0.0.1:3882 GET /js/spin.min.js 
+Sep 04 16:09:32.812 - [DEBUG] launcher web_control 127.0.0.1:3855 GET /js/ladda.min.js 
+Sep 04 16:09:32.812 - [DEBUG] launcher web_control 127.0.0.1:3888 GET /js/site.js?ver=2.9.2 
+Sep 04 16:09:32.906 - [DEBUG] launcher web_control 127.0.0.1:3888 GET /img/logo.png 
+Sep 04 16:09:32.937 - [DEBUG] launcher web_control 127.0.0.1:3856 GET /img/fixed-width.png 
+Sep 04 16:09:32.937 - [DEBUG] launcher web_control 127.0.0.1:3855 GET /img/quit.png 
+Sep 04 16:09:33.453 - [DEBUG] launcher web_control 127.0.0.1:3888 GET /config?cmd=get_config 
+Sep 04 16:09:33.500 - [DEBUG] launcher web_control 127.0.0.1:3882 GET /img/switch-mask.png 
+Sep 04 16:09:33.671 - [DEBUG] launcher web_control 127.0.0.1:3882 GET /favicon.ico 
+Sep 05 11:57:19.031 - [DEBUG] launcher web_control 127.0.0.1:1261 GET /css/bootstrap.css 
+Sep 05 11:57:19.031 - [DEBUG] launcher web_control 127.0.0.1:1271 GET /css/flat-ui.css 
+Sep 05 11:57:19.031 - [DEBUG] launcher web_control 127.0.0.1:1262 GET /css/bootstrap-responsive.css 
+Sep 05 11:57:19.031 - [DEBUG] launcher web_control 127.0.0.1:1272 GET /css/ladda-themeless.min.css 
+Sep 05 11:57:19.031 - [DEBUG] launcher web_control 127.0.0.1:1273 GET /css/style.css?ver=2.9.2 
+Sep 05 11:57:19.265 - [DEBUG] launcher web_control 127.0.0.1:1273 GET /img/logo.png 
+Sep 05 11:57:19.312 - [DEBUG] launcher web_control 127.0.0.1:1273 GET /img/fixed-width.png 
+Sep 05 11:57:19.343 - [DEBUG] launcher web_control 127.0.0.1:1273 GET /img/quit.png 
+Sep 05 11:57:19.890 - [DEBUG] launcher web_control 127.0.0.1:1272 GET /img/switch-mask.png 
+Sep 05 11:57:19.890 - [DEBUG] launcher web_control 127.0.0.1:1261 GET /config?cmd=get_config 
+Sep 05 11:57:20.015 - [DEBUG] launcher web_control 127.0.0.1:1261 GET /config?cmd=get_config 
+Sep 05 11:57:20.468 - [DEBUG] launcher web_control 127.0.0.1:1261 GET /config?cmd=get_config 
+Sep 05 11:57:20.593 - [DEBUG] launcher web_control 127.0.0.1:1272 GET /config?cmd=get_config 
+Sep 05 12:02:57.031 - [DEBUG] start to terminate gae_proxy module
+Sep 05 12:02:57.046 - [DEBUG] module gae_proxy stopping
+Sep 05 12:02:57.546 - [INFO] module gae_proxy stopped
